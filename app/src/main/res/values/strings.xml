@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Camera Burst</string>
+    <string name="app_name">DD | MVP Architecture</string>
+    <string name="buttonText">Display Next Course</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">Dummy Developers Computer Science MVP Architecture Pattern</string>
+    <string name="description">Course Description</string>
 </resources>
