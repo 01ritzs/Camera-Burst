@@ -41,12 +41,7 @@ public class MainActivity extends AppCompatActivity implements Contract.View {
 
         // operations to be performed when
         // user clicks the button
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                presenter.onButtonClick();
-            }
-        });
+        button.setOnClickListener(v -> presenter.onButtonClick());
     }
 
     @Override
